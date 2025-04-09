@@ -1,7 +1,5 @@
 # Quantum_Computing_Tasks
 
-# Quantum Computing Tasks
-
 This repository contains the solutions and explanations for a series of quantum computing tasks implemented using Qiskit.
 
 ## Overview
